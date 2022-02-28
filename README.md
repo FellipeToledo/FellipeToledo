@@ -8,5 +8,5 @@
 <br />
 
 
-Olá, bem vindo ao meu GITHUB, me chamo [Fellipe Toledo](https://fellipetoledo.me/), 
+Olá, bem vindo ao meu GITHUB, me chamo Fellipe Toledo :rocket:	, 
 
