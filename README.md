@@ -1,4 +1,5 @@
-<img align="center" src="Images/Fellipe-logo-transparente1000x700px.png" alt="SmartCity" width=700 height=370>
+<center>
+<img align="center" src="Images/Fellipe-logo-transparente1000x700px.png" alt="SmartCity" width=700 height=400>
 
 
 
