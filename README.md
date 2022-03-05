@@ -1,12 +1,22 @@
-<a href="https://www.linkedin.com/in/fellipetoledo/">
-  <img align="left" alt="FellipeToledo LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img align="center" src="Images/Fellipe-logo-transparente1000x700px.png" alt="SmartCity" width=1000 height=370>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=fellipetoledo.fellipetoledo)
 
-<br />
+[1]: https://www.linkedin.com/in/fellipetoledo/
+[2]: https://twitter.com/FellipeToledo
+[3]: https://www.facebook.com/fellipetoledo001
+
+<center>
+
+[![linkedin](Images/Icons/linkedin-icon.png)][1] 
+[![facebook](Images/Icons/twitter-icon.png)][2]
+[![linkedin](Images/Icons/face-icon.png)][3]
+___
+## Olá ✌, seja bem vindo ao meu perfil do GitHub!!!
+### 
 
 
-Olá, bem vindo ao meu GITHUB, me chamo Fellipe Toledo :rocket:	, 
-
+---
+<a href="https://github.com/fellipetoledo">
+<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipetoledo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="110em" src="https://github-readme-stats.vercel.app/api?username=fellipetoledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
