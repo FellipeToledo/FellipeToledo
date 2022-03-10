@@ -12,7 +12,7 @@
 <h1 align="center">
 Olá ✌ seja bem vindo ao meu perfil do GitHub!!!
   <h3 align="center">
-Graduado em Transporte Terrestre e Análize e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, atualmente atuo como Controlador Operacional no Sindicato da Empresas de Ônibus da Cidade do Rio de Janeiro (Rio Ônibus), alocado no Centro de Operações Rio (COR).
+Sou graduado em Transporte Terrestre e Análize e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, atualmente atuo como Controlador Operacional no Sindicato da Empresas de Ônibus da Cidade do Rio de Janeiro (Rio Ônibus), alocado no Centro de Operações Rio (COR).
  <h2 align="center">
 
 <a href="https://github.com/fellipetoledo">
