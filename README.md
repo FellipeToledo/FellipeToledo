@@ -23,6 +23,17 @@ Sou graduado em Transporte Terrestre e Análize e Desenvolvimento de Sistemas pe
   </h3>
   
 ---
+
+:bust_in_silhouette: &nbsp; Tech Skills:
+
+<p>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+  
 :bust_in_silhouette: &nbsp; Social:
     
   <a href="https://battlelog.battlefield.com/bf4/user/FellipeToledo/"><img alt="Battlelog" title="Game" src="https://shields.io/badge/-BATTLELOG-blue.svg?&style=for-the-badge&logo=ea&logoColor=white"></a>
