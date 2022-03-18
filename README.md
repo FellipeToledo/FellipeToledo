@@ -8,6 +8,7 @@
 [![facebook](Images/Icons/twitter-icon.png)][2]
 [![linkedin](Images/Icons/face-icon.png)][3]
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FellipeToledo/FellipeToledo/edit/main/README.md-counter)](https://hits.seeyoufarm.com)                    
 
 <h1 align="center">
 Olá ✌ seja bem vindo ao meu perfil do GitHub!!!
