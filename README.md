@@ -5,17 +5,13 @@
 <img src="Images/Capa-do-Facebook851x315px.jpeg" alt="SmartCity">
 </p>
 
-
-  &emsp;&emsp;&emsp;&emsp;&emsp;
-  <a href="https://www.linkedin.com/in/fellipetoledo/"><img alt="Linkedim" title="Linkedin" src="Images/Icons/linkedin-icon.png"></a>
-  <a href="https://twitter.com/FellipeToledo"><img alt="Twitter" title="Twitter" src="Images/Icons/twitter-icon.png"></a>
-  <a href="https://www.facebook.com/fellipetoledo001"><img alt="Face" title="Facebook" src="Images/Icons/face-icon.png">
-
-  
+  <a href="https://www.linkedin.com/in/fellipetoledo/"><img alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/profile/blob/main/image/icons/linkedin-icon.png"></a>
+  <a href="https://twitter.com/FellipeToledo"><img alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/profile/blob/main/image/icons/twitter-icon.png"></a>
+  <a href="https://www.facebook.com/fellipetoledo001"><img alt="Face" title="Facebook" src="https://github.com/FellipeToledo/profile/blob/main/image/icons/face-icon.png">
   
  ---
 <h2 align="center">
-Olá ✌ 
+Olá, me chamo Fellipe Toledo ✌ 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&lines=Seja+bem+vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
   <h3 align="center">
