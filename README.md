@@ -5,9 +5,9 @@
 <img src="Images/Capa-do-Facebook851x315px.jpeg" alt="SmartCity">
 </p>
 
-  <a href="https://www.linkedin.com/in/fellipetoledo/"><img alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/profile/blob/main/image/icons/linkedin-icon.png"></a>
-  <a href="https://twitter.com/FellipeToledo"><img alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/profile/blob/main/image/icons/twitter-icon.png"></a>
-  <a href="https://www.facebook.com/fellipetoledo001"><img alt="Face" title="Facebook" src="https://github.com/FellipeToledo/profile/blob/main/image/icons/face-icon.png">
+  <a href="https://www.linkedin.com/in/fellipetoledo/"><img alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
+  <a href="https://twitter.com/FellipeToledo"><img alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/twitter-icon.png"></a>
+  <a href="https://www.facebook.com/fellipetoledo001"><img alt="Face" title="Facebook" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/face-icon.png">
   
  ---
 <h2 align="center">
