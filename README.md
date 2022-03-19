@@ -5,6 +5,8 @@
 <img src="Images/Capa-do-Facebook851x315px.jpeg" alt="SmartCity">
 </p>
 
+
+
   <a href="https://www.linkedin.com/in/fellipetoledo/"><img alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
   <a href="https://twitter.com/FellipeToledo"><img alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/twitter-icon.png"></a>
   <a href="https://www.facebook.com/fellipetoledo001"><img alt="Face" title="Facebook" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/face-icon.png">
@@ -23,11 +25,18 @@ Sou graduado em Transporte Terrestre e Análize e Desenvolvimento de Sistemas pe
 :bust_in_silhouette: &nbsp; Tech Skills:
 
 <p>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Qgis](https://img.shields.io/badge/Qgis-ffffff?style=for-the-badge&logo=qgis&logoColor=gren)
 </p>
   
 :bust_in_silhouette: &nbsp; Social:
