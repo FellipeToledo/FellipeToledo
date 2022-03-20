@@ -8,8 +8,8 @@
 
 
   <a href="https://www.linkedin.com/in/fellipetoledo/"><img alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
-  <a href="https://twitter.com/FellipeToledo"><img alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/twitter-icon.png"></a>
-  <a href="https://www.facebook.com/fellipetoledo001"><img alt="Face" title="Facebook" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/face-icon.png">
+  <a href="https://twitter.com/FellipeToledo"><img align="right" alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/twitter-icon.png"></a>
+
   
  ---
 <h2 align="center">
@@ -18,7 +18,7 @@ Olá, me chamo Fellipe Toledo ✌
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&lines=Seja+bem+vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
  
 <h3 align="center">
-  Sou graduado em Transporte Terrestre e Análize e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, atualmente atuo como Controlador           Operacional no Sindicato da Empresas de Ônibus da Cidade do Rio de Janeiro (Rio Ônibus), alocado no Centro de Operações Rio (COR).
+  Sou graduado em Transporte Terrestre e Análize e Desenvolvimento de Sistemas, atualmente atuo como Controlador Operacional no Sindicato das Empresas de Ônibus da Cidade do Rio de Janeiro (Rio Ônibus), alocado no Centro de Operações Rio (COR).
 </h3>
   
 --- 
