@@ -17,18 +17,22 @@ Olá, me chamo Fellipe Toledo ✌
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&lines=Seja+bem+vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
  
-<h3 align="center">
-  Sou graduado em Transporte Terrestre e Análize e Desenvolvimento de Sistemas, atualmente atuo como Controlador Operacional no Sindicato das Empresas de Ônibus da Cidade do Rio de Janeiro (Rio Ônibus), alocado no Centro de Operações Rio (COR).
+<h3>
+  
+- 🎓 &nbsp; Graduation : Transporte Terrestre e Análize e Desenvolvimento de Sistemas
+- 👨‍💻 &nbsp; Job : Controlador Operacional Rio Ônibus / COR-RIO
+  
+  
 </h3>
   
 --- 
-<p align="center">
-  :bust_in_silhouette: &nbsp; Tech Skills :
-</p>
+<h2 align="center">
+  :computer: &nbsp; Tech Skills :
+</h2>
   
-<p align="center">
-  :bust_in_silhouette: &nbsp; know :
-</p>
+<h3 align="center">
+:bust_in_silhouette: &nbsp; Know :
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
@@ -44,14 +48,29 @@ Olá, me chamo Fellipe Toledo ✌
   <img src="https://img.shields.io/badge/Qgis-ffffff?style=for-the-badge&logo=qgis&logoColor=gren"/> 
 </p>
   
-<p align="center">  
-  :bust_in_silhouette: &nbsp; Learning... :
+<h3 align="center">  
+   :seedling: &nbsp; Learning... :
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 </p>
-    
   
-<p align="center">  
-  :bust_in_silhouette: &nbsp; Social :
+<h3 align="center">  
+   :rocket: &nbsp; Coming Soon... :
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
 </p>
+  
+  
+  
+<h3 align="center">  
+  :busts_in_silhouette: &nbsp; Social :
+</h3>
 
 <p align="center">  
   <a href="https://battlelog.battlefield.com/bf4/user/FellipeToledo/"><img alt="Battlelog" title="Game" src="https://shields.io/badge/-BATTLELOG-blue.svg?&style=for-the-badge&logo=ea&logoColor=white"></a>
