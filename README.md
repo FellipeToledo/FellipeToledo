@@ -7,7 +7,7 @@
 
 
 
-  <a href="https://www.linkedin.com/in/fellipetoledo/"><img alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
+  <a href="https://www.linkedin.com/in/fellipetoledo/" target="_blank"><img alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
   <a href="https://twitter.com/FellipeToledo"><img align="right" alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/twitter-icon.png"></a>
 
   
