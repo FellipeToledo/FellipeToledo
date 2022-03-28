@@ -19,8 +19,12 @@ Olá, me chamo Fellipe Toledo ✌
  
 <h3>
   
-- 🎓 &nbsp; Graduation : Transporte Terrestre e Análize e Desenvolvimento de Sistemas
-- 👨‍💻 &nbsp; Job : Controlador Operacional Rio Ônibus / COR-RIO
+- 🎓 &nbsp; Graduation : 
+  - Transporte Terrestre  
+  - Análise e Desenvolvimento de Sistemas
+  <br />
+- 👨‍💻 &nbsp; Job : 
+  - Controlador Operacional Rio Ônibus / COR-RIO
   
   
 </h3>
