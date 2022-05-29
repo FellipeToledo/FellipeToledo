@@ -19,9 +19,15 @@ Olá, me chamo Fellipe Toledo ✌
   </a>
 </div>
 
-![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/language.svg)
-![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/achievements.svg)
+  
+<div align="left">
+  
+  ![About me](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/about-me.svg)  
+  ![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/github-metrics.svg)
+  ![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/language.svg)
+  ![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/achievements.svg)
+  
+</div>
 
 <h2 align="center">
   :computer: &nbsp; Tech Skills :
