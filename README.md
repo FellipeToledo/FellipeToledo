@@ -14,15 +14,15 @@ Olá, me chamo Fellipe Toledo ✌
     <img
       width="300"
       align="right"
-      src="https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/card/devcard.svg"
+      src="https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/card/devcard.svg"
     />
   </a>
 </div>
 
-![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/metrics/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/metrics/language.svg)
-![Notable contributions](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/metrics/achievements.svg)
+![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/achievements.svg)
 
 <h2 align="center">
   :computer: &nbsp; Tech Skills :
