@@ -17,14 +17,6 @@ Olá, me chamo Fellipe Toledo ✌
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&lines=Seja+bem+vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
  
----  
- 
-<h2 align="center">
-  <a href="https://github.com/fellipetoledo">
-<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipetoledo&layout=compact&langs_count=7&theme=dracula"/>
-
-<img height="110em" src="https://github-readme-stats.vercel.app/api?username=fellipetoledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
     
 <div align="left">
   <a href="https://api.daily.dev/get?r=FellipeToledo" target="_blank">
@@ -35,8 +27,10 @@ Olá, me chamo Fellipe Toledo ✌
     />
   </a>
 </div>
+
+![Metrics](https://metrics.lecoq.io/FellipeToledo?template=classic&base.repositories=0&base.metadata=0&base.indepth=false&config.timezone=America%2FSao_Paulo)
     
---- 
+
 <h2 align="center">
   :computer: &nbsp; Tech Skills :
 </h2>
