@@ -21,7 +21,6 @@ Olá, me chamo Fellipe Toledo ✌
 
 ![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/language.svg)
-![Notable contributions](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/achievements.svg)
 
 <h2 align="center">
