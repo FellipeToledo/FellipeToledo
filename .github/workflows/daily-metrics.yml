@@ -12,13 +12,13 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.23
+      - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
+          committer_branch: main
           committer_message: "build: update `${filename}`"
 
           # Options
@@ -30,13 +30,13 @@ jobs:
   notable:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.23
+      - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
+          committer_branch: main
           committer_message: "build: update `${filename}`"
 
           # Options
@@ -55,13 +55,13 @@ jobs:
   language:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.23
+      - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
+          committer_branch: main
           committer_message: "build: update `${filename}`"
 
           # Options
@@ -80,13 +80,13 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.23
+      - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
+          committer_branch: main
           committer_message: "build: update `${filename}`"
 
           # Options
