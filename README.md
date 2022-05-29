@@ -14,17 +14,15 @@ Olá, me chamo Fellipe Toledo ✌
     <img
       width="300"
       align="right"
-      src="https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/devcard.svg"
+      src="https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/card/devcard.svg"
     />
   </a>
 </div>
 
-![Metrics](https://metrics.lecoq.io/FellipeToledo?template=classic&base.repositories=0&base.metadata=0&base.indepth=false&config.timezone=America%2FSao_Paulo)
-
-![Metrics](https://metrics.lecoq.io/FellipeToledo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
-
-![Metrics](https://metrics.lecoq.io/FellipeToledo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
-    
+![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/.github/workflows/metrics/achievements.svg)
 
 <h2 align="center">
   :computer: &nbsp; Tech Skills :
