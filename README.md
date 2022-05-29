@@ -17,18 +17,25 @@ Olá, me chamo Fellipe Toledo ✌
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&lines=Seja+bem+vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
  
-<h3>
-  
-- 🎓 &nbsp; Graduation : 
-  - Transporte Terrestre  
-  - Análise e Desenvolvimento de Sistemas
-  <br />
-- 👨‍💻 &nbsp; Job : 
-  - Controlador Operacional Rio Ônibus / COR-RIO
-  
-  
-</h3>
-  
+---  
+ 
+<h2 align="center">
+  <a href="https://github.com/fellipetoledo">
+<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipetoledo&layout=compact&langs_count=7&theme=dracula"/>
+
+<img height="110em" src="https://github-readme-stats.vercel.app/api?username=fellipetoledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+    
+<div align="left">
+  <a href="https://api.daily.dev/get?r=FellipeToledo" target="_blank">
+    <img
+      width="300"
+      align="right"
+      src="https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/devcard.svg"
+    />
+  </a>
+</div>
+    
 --- 
 <h2 align="center">
   :computer: &nbsp; Tech Skills :
@@ -82,14 +89,3 @@ Olá, me chamo Fellipe Toledo ✌
   <a href="https://soundcloud.com/fellipe-toledo-133879191"><img alt="Soundcloud" title="Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
   <a href="https://ko-fi.com/fellipetoledo"><img alt="Ko-fi" title="Contribuição" src="https://shields.io/badge/-BUY%20ME%20A%20COFFEE-CC2735.svg?&style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
-  
----  
-<h2 align="center">
-  <a href="https://github.com/fellipetoledo">
-<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipetoledo&layout=compact&langs_count=7&theme=dracula"/>
-
-<img height="110em" src="https://github-readme-stats.vercel.app/api?username=fellipetoledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </h1>
-   
-  
-
