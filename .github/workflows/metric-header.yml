@@ -41,6 +41,7 @@ jobs:
           plugin_languages_threshold: 0%
           
           # Achievements
+          config_display: large
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
