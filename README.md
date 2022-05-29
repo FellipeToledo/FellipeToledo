@@ -1,24 +1,15 @@
-<p align="right"><a href="https://hits.seeyoufarm.com"><img alt="Face" title="Facebook" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FellipeToledo%2Fgjbae1212%2Fhit-counter&count_bg=%233F3DC8&title_bg=%23070707&icon=github.svg&icon_color=%23FBF6F6&title=VISITAS&edge_flat=false">  </a>
-</p>   
 
-<p align="center">
-<img src="Images/Capa%20do%20Facebook%20851x315%20%20px..jpeg" alt="SmartCity">
-</p>
-
-
-
-  <a href="https://www.linkedin.com/in/fellipetoledo/" target="_blank"><img alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
-  <a href="https://twitter.com/FellipeToledo"><img align="right" alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/twitter-icon.png"></a>
-
-  
- ---
 <h2 align="center">
 Olá, me chamo Fellipe Toledo ✌ 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&lines=Seja+bem+vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
- 
+
+<div align="right">  
+  <a href="https://www.linkedin.com/in/fellipetoledo/" target="_blank"><img  alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
+  <a href="https://twitter.com/FellipeToledo"><img  alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/twitter-icon.png"></a>
+</div>
     
-<div align="left">
+<div>
   <a href="https://api.daily.dev/get?r=FellipeToledo" target="_blank">
     <img
       width="300"
@@ -29,6 +20,11 @@ Olá, me chamo Fellipe Toledo ✌
 </div>
 
 ![Metrics](https://metrics.lecoq.io/FellipeToledo?template=classic&base.repositories=0&base.metadata=0&base.indepth=false&config.timezone=America%2FSao_Paulo)
+
+![Metrics](https://metrics.lecoq.io/FellipeToledo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
+
+  
+
     
 
 <h2 align="center">
