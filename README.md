@@ -92,3 +92,9 @@ Hi everyone ✌
   <a href="https://soundcloud.com/fellipe-toledo-133879191"><img alt="Soundcloud" title="Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
   <a href="https://ko-fi.com/fellipetoledo"><img alt="Ko-fi" title="Contribuição" src="https://shields.io/badge/-BUY%20ME%20A%20COFFEE-CC2735.svg?&style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=3DF798&center=true&vCenter=true&multiline=true&lines=%F0%9F%8C%B0________%F0%9F%8C%B1________%F0%9F%8C%B3________%F0%9F%8D%83)](https://git.io/typing-svg)
+  
+</div>
