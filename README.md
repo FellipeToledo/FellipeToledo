@@ -1,8 +1,12 @@
 
-<h2 align="center">
-Olá, me chamo Fellipe Toledo ✌ 
+<h1 align="center">
+Hi everyone ✌ 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&lines=Seja+bem+vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=30&duration=4000&center=true&width=413&lines=%09%F0%9F%8C%B1Wellcome+to+my+GitHub%09%F0%9F%8C%B1)](https://git.io/typing-svg)
+</h1>  
+  
+
+
 
 <div align="right">  
   <a href="https://www.linkedin.com/in/fellipetoledo/" target="_blank"><img  alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
@@ -24,11 +28,18 @@ Olá, me chamo Fellipe Toledo ✌
   
   ![About me](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/about-me.svg)  
   ![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/github-metrics.svg)
-  ![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/language.svg)
-  ![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/achievements.svg)
   
 </div>
 
+<div align="right">  
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tangerine&size=30&color=102AF6&width=413&lines=Fellipe+Toledo+de+Azevedo)](https://git.io/typing-svg)  
+  
+</div>
+  
+  ![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/language.svg)
+  ![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/achievements.svg)
+  
 <h2 align="center">
   :computer: &nbsp; Tech Skills :
 </h2>
