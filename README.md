@@ -26,8 +26,8 @@ Hi everyone ✌
   
 <div align="left">
   
-  ![About me](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/about-me.svg)  
-  ![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/github-metrics.svg)
+  ![About me](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/about-me.svg)  
+  ![Metrics](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/github-metrics.svg)
   
 </div>
 
@@ -37,8 +37,8 @@ Hi everyone ✌
   
 </div>
   
-  ![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/language.svg)
-  ![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/metrics/achievements.svg)
+  ![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/language.svg)
+  ![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/achievements.svg)
   
 <h2 align="center">
   :computer: &nbsp; Tech Skills :
