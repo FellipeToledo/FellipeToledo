@@ -18,7 +18,7 @@ Hi everyone ✌
     <img
       width="300"
       align="right"
-      src="https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/.github/workflows/card/devcard.svg"
+      src="https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/devcard.svg"
     />
   </a>
 </div>
