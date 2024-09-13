@@ -5,9 +5,6 @@ Hi everyone ✌
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=30&duration=4000&center=true&width=413&lines=%09%F0%9F%8C%B1Wellcome+to+my+GitHub%09%F0%9F%8C%B1)](https://git.io/typing-svg)
 </h1>  
   
-
-
-
 <div align="right">  
   <a href="https://www.linkedin.com/in/fellipetoledo/" target="_blank"><img  alt="Linkedim" title="Linkedin" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/linkedin-icon.png"></a>
   <a href="https://twitter.com/FellipeToledo"><img  alt="Twitter" title="Twitter" src="https://github.com/FellipeToledo/FellipeToledo/blob/main/Images/Icons/twitter-icon.png"></a>
@@ -23,7 +20,6 @@ Hi everyone ✌
   </a>
 </div>
 
-  
 <div align="left">
   
   ![About me](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/about-me.svg)  
@@ -40,6 +36,12 @@ Hi everyone ✌
   ![Most used languages](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/language.svg)
   ![Achievements](https://raw.githubusercontent.com/FellipeToledo/FellipeToledo/main/achievements.svg)
   
+<div align="center">
+  
+ [![roadmap.sh](https://roadmap.sh/card/wide/66e2128b12af4935a0a57ca3?variant=dark)](https://roadmap.sh)
+ 
+</div>
+
 <h2 align="center">
   :computer: &nbsp; Tech Skills :
 </h2>
@@ -79,8 +81,6 @@ Hi everyone ✌
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
 </p>
-  
-  
   
 <h3 align="center">  
   :busts_in_silhouette: &nbsp; Social :
